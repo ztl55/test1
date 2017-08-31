@@ -5,6 +5,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+/**
+ * 功能自动化测试实验
+ *
+ */
 public class test1 {
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver s=new FirefoxDriver();
@@ -16,3 +20,4 @@ public class test1 {
 	}
 
 }
+

@@ -1,7 +1,7 @@
 package test1;
 
 /**
- * 虏禄脨猫脪陋脙脺脭驴 鎷夊幓瀹為獙
+ * 明天看一下git和java字符格式冲突问题
  *
  */
 public class test3 {
